@@ -20,7 +20,7 @@ Nếu đấu lẫn nhau, người chơi bên trái dùng phím W để di chuy�
 Nếu đấu với máy, người chơi dùng phím W để di chuyển thanh lên và S để di chuyển thanh xuống.
 
 
-3. Mô tả chức năng đã cài đặt:
+3. Mô tả chức năng đã cài đặt: https://youtu.be/3-VyhclFEsY
 
 - Có menu để lựa chọn chức năng mình muốn (1:1, chơi cùng Al, xem luật…)
 
